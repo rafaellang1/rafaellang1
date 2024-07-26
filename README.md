@@ -1,16 +1,28 @@
-## Hi there 👋
+## Olá,
 
-<!--
-**rafaellang1/rafaellang1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Rafael, sou graduado em Engenharia de Software pela Unigran e fullstack developer, atualmente meu foco nos último 3 anos tem sido em Javascript, com as stacks: ReactJS, ReactNative e NodeJS. caso queira entrar em contato comigo, minha rede profissional está abaixo
 
-Here are some ideas to get you started:
+<code><<a href="https://www.linkedin.com/in/rafael-lfernandes/">img height= "20"src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+"></a></code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Sobre 🖥️
+
+A tecnologia entrou em minha vida quando ainda era novo, e desde esse tempo ja trabalhei com blogs (época do blogspot), ja fui técnico em computadores, dando suporte a manutenção de computadores e sistemas e atualmente desenvolvo programas com a Javascript pelo seu ecossistema, permitindo que eu possa entregar um sistema completo desde o backend, front e mobile.
+
+
+### Minhas skills 👨‍💻
+
+<img height= "15"src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img height= "15"src= "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img height= "15"src= "https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img height= "15"src= "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <img height= "15"src= "https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"> <img height= "15"src= "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+
+
+
+
+
+
+
+
+
+
+
+
