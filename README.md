@@ -11,7 +11,7 @@ Me chamo Rafael, sou graduado em Engenharia de Software pela Unigran e fullstack
 
 ### Sobre 🖥️
 
-A tecnologia entrou em minha vida quando ainda era novo, e desde esse tempo ja trabalhei com blogs (época do blogspot), ja fui técnico em computadores, dando suporte a manutenção de computadores e sistemas e atualmente desenvolvo programas com a Javascript pelo seu ecossistema, permitindo que eu possa entregar um sistema completo desde o backend, front e mobile.
+A tecnologia entrou em minha vida quando ainda era novo, ja passei por alguns setores envolvendo tecnologia e atualmente desenvolvo programas com Javascript pelo seu ecossistema, permitindo que eu possa entregar um sistema completo desde o backend, front e mobile.
 
 
 ### Minhas skills 👨‍💻
